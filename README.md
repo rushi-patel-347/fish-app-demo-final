@@ -1,5 +1,4 @@
-# Build a ML model for the Fish market dataset
-Task : Classification problem to determine the fish species</br></br>
+# Build a ML model for the Fish market dataset and deploy it on heroku
 Database : https://www.kaggle.com/datasets/aungpyaeap/fish-market</br>
 
 Heroku access link : https://fish-heroku-demo-api.herokuapp.com/</br>

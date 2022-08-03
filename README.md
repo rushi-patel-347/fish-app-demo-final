@@ -1,21 +1,8 @@
 # Build a ML model for the Fish market dataset
 Task : Classification problem to determine the fish species</br></br>
 Database : https://www.kaggle.com/datasets/aungpyaeap/fish-market</br>
-</br>
-Content : This dataset is a record of 7 common different fish species in fish market sales. With this dataset, a predictive model classify the fish species based on height, weight, width and length1, length2 and length3.
-</br>
 
-Features:
-
-Species (str): The type of fish</br>
-Weight (int): The recorded Weight of the fish in grams (g)</br>
-Length1 (int): Vertical length in centimeters </br>
-Length2 (int): Diagonal length in centimeters </br>
-Length3 (int): Cross length in centimeters </br>
-Height (int): Height in centimeters </br>
-Width (int): Diagonal width in centimeters</br>
-
-Heroku access link : https://fishmarket-test.herokuapp.com/predict</br>
+Heroku access link : https://fish-heroku-demo-api.herokuapp.com/</br>
 
 Installation Required:</br>
 python==3.8
